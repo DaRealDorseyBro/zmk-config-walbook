@@ -7,7 +7,13 @@
         compatible = "zmk,keymap";
 
         default_layer {
-            bindings = <&kp SPACE>;
+            bindings = <
+            &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC
+            &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC
+            &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC 
+            &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC 
+            &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC &kp ESC 
+            >;
         };
     };
 };
