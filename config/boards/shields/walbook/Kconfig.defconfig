@@ -2,5 +2,3 @@ if SHIELD_WALBOOK
 
 config ZMK_KEYBOARD_NAME
     default "Regia"
-
-endif
