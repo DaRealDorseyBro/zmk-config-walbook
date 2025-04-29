@@ -1,2 +1,2 @@
 config SHIELD_WALBOOK
-    def_bool $(shields_list_contains, walbook)
+    def_bool $(shields_list_contains,walbook)
